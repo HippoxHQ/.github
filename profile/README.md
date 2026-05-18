@@ -1,17 +1,27 @@
-# Hippox
+<h1 align="center">
+    HippoX
+</h1>
 
-A reliable AI agent and skills orchestration runtime engine.
+<h4 align="center">
+A reliable AI agent and skills orchestration runtime engine. 
+</h4>
 
 ## About
 
 HippoxHQ is the official organization built around the Hippox ecosystem.
 
-The core Hippox engine focuses on AI agent runtime execution, intelligent skill orchestration, and reliable workflow coordination.
+Hippox is designed as a next-generation runtime engine for AI agents, intelligent skill orchestration, and reliable workflow coordination.
 
-This organization is intended to host future satellite projects and ecosystem components built on top of Hippox, including SDKs, tooling, infrastructure, cloud services, plugins, and AI-native applications.
+The organization will gradually host future ecosystem components and satellite projects built on top of Hippox, including SDKs, developer tooling, infrastructure services, plugins, cloud runtimes, and AI-native applications.
 
-At the current stage, the ecosystem is still in its early development phase and most planned products have not been publicly released yet.
+The ecosystem is currently in its early development stage, and most planned products have not yet been publicly released.
 
 ## Vision
 
 Hippox aims to become a reliable orchestration layer for next-generation AI agents and autonomous systems.
+
+## Ecosystem
+
+| Name       | Description | GitHub                                         |
+| ---------- | ----------- | ---------------------------------------------- |
+| **Hippox** | Core Engine | [hippox](https://github.com/0xhappyboy/hippox) |
