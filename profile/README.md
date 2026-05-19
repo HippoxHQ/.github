@@ -1,5 +1,8 @@
+<p align="center">
+    <img src="../assets/bg/bg_4.png" alt="Portal" width="100%">
+</p>
 <h1 align="center">
-    HippoX
+    🦛 HippoX
 </h1>
 
 <h4 align="center">
