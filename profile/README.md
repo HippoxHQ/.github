@@ -30,6 +30,6 @@ Hippox aims to become a reliable orchestration layer for next-generation AI agen
 | Name                | Description                                                                                    | GitHub                                                         |
 | ------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | **hippox**          | Core Engine                                                                                    | [hippox](https://github.com/0xhappyboy/hippox)                 |
-| **hippox-desktop**  | Hippox is an operating system desktop application that helps you operate your computer better. | [hippox-desktop](https://github.com/HippoxHQ/hippox-desktop)   |
+| **hippoxOS**        | Hippox is an operating system desktop application that helps you operate your computer better. | [hippoxOS](https://github.com/HippoxHQ/hippoxOS)               |
 | **hippox-terminal** | hippox is an interactive dialog interface that runs on the terminal, based on TUI..            | [hippox-terminal](https://github.com/HippoxHQ/hippox-terminal) |
-| **hippox-cli**      | The hippox terminal application allows you to operate hippox using the command line.           | [hippox-terminal](https://github.com/HippoxHQ/hippox-cli)      |
+| **hippox-cli**      | The hippox terminal application allows you to operate hippox using the command line.           | [hippox-cli](https://github.com/HippoxHQ/hippox-cli)           |
