@@ -36,12 +36,14 @@ Hippox aims to become a reliable orchestration layer for next-generation AI agen
 
 ## Hippox Official Channels & Community
 
-| Platform         | URL                                           |
-| ---------------- | --------------------------------------------- |
-| Official Website | https://hippox.vercel.app/                    |
-| X (Twitter)      | https://x.com/HippoxAI                        |
-| Bluesky          | https://bsky.app/profile/hippoxai.bsky.social |
-| Medium           | https://hippox.medium.com/                    |
-| Discord          | https://discord.com/invite/jrcZHfZzr          |
-| YouTube          | https://www.youtube.com/@HippoxOS             |
-| Bilibili         | https://space.bilibili.com/9667583            |
+| Platform         | URL                                                                                     |
+| ---------------- | --------------------------------------------------------------------------------------- |
+| Official Website | https://hippox.vercel.app/                                                              |
+| X (Twitter)      | https://x.com/HippoxAI                                                                  |
+| Bluesky          | https://bsky.app/profile/hippoxai.bsky.social                                           |
+| Medium           | https://hippox.medium.com/                                                              |
+| Discord          | https://discord.com/invite/jrcZHfZzr                                                    |
+| YouTube          | https://www.youtube.com/@HippoxOS                                                       |
+| Bilibili         | https://space.bilibili.com/9667583                                                      |
+| QQ               | <img src="https://github.com/HippoxHQ/About/raw/main/assets/qq_QR.png" width="100">     |
+| WeChat           | <img src="https://github.com/HippoxHQ/About/raw/main/assets/wechat_QR.png" width="100"> |
