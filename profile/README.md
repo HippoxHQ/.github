@@ -5,10 +5,6 @@
     🦛 HippoX
 </h1>
 
-<h4 align="center">
-A reliable AI agent and skills orchestration runtime engine. 
-</h4>
-
 <b>_Currently, humanity uses less than 5% of computers true capabilities — hippox is here to change that._</b>
 
 ## About
