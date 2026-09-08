@@ -15,20 +15,18 @@ Hippox is designed as a next-generation runtime engine for AI agents, intelligen
 
 The organization will gradually host future ecosystem components and satellite projects built on top of Hippox, including SDKs, developer tooling, infrastructure services, plugins, cloud runtimes, and AI-native applications.
 
-The ecosystem is currently in its early development stage, and most planned products have not yet been publicly released.
-
 ## Vision
 
-Hippox aims to become a reliable orchestration layer for next-generation AI agents and autonomous systems.
+Hippox represents a brand-new development path for AI—large systems and small models—and The organization will devote my full effort to bringing it to fruition.
 
 ## Ecosystem
 
-| Name                | Description                                                                                    | GitHub                                                         |
-| ------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **hippox**          | Core Engine                                                                                    | [hippox](https://github.com/0xhappyboy/hippox)                 |
-| **hippoxOS**        | Hippox is an operating system desktop application that helps you operate your computer better. | [hippoxOS](https://github.com/HippoxHQ/hippoxOS)               |
-| **hippox-terminal** | hippox is an interactive dialog interface that runs on the terminal, based on TUI..            | [hippox-terminal](https://github.com/HippoxHQ/hippox-terminal) |
-| **hippox-cli**      | The hippox terminal application allows you to operate hippox using the command line.           | [hippox-cli](https://github.com/HippoxHQ/hippox-cli)           |
+| Name                | Description                                                                                        | GitHub                                                         |
+| ------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **hippoxOS**        | Hippox is a true LLM operating system designed to help you operate your computer more efficiently. | [hippoxOS](https://github.com/HippoxHQ/hippoxOS)               |
+| **hippox**          | Core Engine                                                                                        | [hippox](https://github.com/0xhappyboy/hippox)                 |
+| **hippox-terminal** | hippox is an interactive dialog interface that runs on the terminal, based on TUI..                | [hippox-terminal](https://github.com/HippoxHQ/hippox-terminal) |
+| **hippox-cli**      | The hippox terminal application allows you to operate hippox using the command line.               | [hippox-cli](https://github.com/HippoxHQ/hippox-cli)           |
 
 ## Hippox Official Channels & Community
 
