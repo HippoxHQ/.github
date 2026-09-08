@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../assets/bg/bg_4.png" alt="Portal" width="100%">
+    <img src="../assets/bg/bg_6.jpg" alt="Portal" width="100%">
 </p>
 <h1 align="center">
     🦛 HippoX
