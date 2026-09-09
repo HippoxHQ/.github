@@ -36,6 +36,7 @@ Hippox represents a brand-new development path for AI—large systems and small 
 | X (Twitter)      | https://x.com/HippoxAI                                                                  |
 | Bluesky          | https://bsky.app/profile/hippoxai.bsky.social                                           |
 | FaceBook         | https://www.facebook.com/groups/5510896799134952                                        |
+| Reddit           | https://www.reddit.com/r/Hippox/                                                        |
 | Medium           | https://hippox.medium.com/                                                              |
 | HuggingFace      | https://huggingface.co/HippoxHQ                                                         |
 | Discord          | https://discord.com/invite/jrcZHfZzr                                                    |
